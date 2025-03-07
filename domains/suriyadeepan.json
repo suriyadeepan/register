@@ -1,0 +1,12 @@
+{
+  "description": "Suriyadeepan's personal blog",
+  "repo": "https://github.com/suriyadeepan/suriyadeepan.github.io",
+  "owner": {
+    "username": "suriyadeepan",
+    "email": "[email protected]"
+  },
+  "record": {
+    "CNAME": "suriyadeepan.github.io"
+  },
+  "proxied": true
+}
